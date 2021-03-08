@@ -1,0 +1,9 @@
+canvas 200 70 360 360
+layer 1
+layer 2
+shape ron rectangle 0
+shape petros rectangle 1
+shape augustin ellipse 2
+motion ron 1 500 100 100 300 255 0 0 0   20 500 1000 100 300 255 0 0 0
+motion petros 1 500 1000 100 300 0 255 0 0   20 500 100 100 300 0 255 0 0
+motion augustin 1 500 650 100 100 128 100 20 0 20 500 650 100 100 128 100 20 0
